@@ -1,0 +1,6 @@
+Task 2 in Git & GitHub Workshop
+-------------------------------
+
+Once upon a time, in a village named "Init", lived a brave adventurer
+named Git.
+
